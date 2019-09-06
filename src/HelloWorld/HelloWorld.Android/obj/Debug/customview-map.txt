@@ -1,0 +1,49 @@
+@string/appbar_scrolling_view_behavior;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/enterfromleft.xml
+alpha;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/exittoleft.xml
+android.support.design.widget.AppBarLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
+android.support.design.widget.BottomNavigationView;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
+android.support.design.widget.TabLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
+android.support.v4.widget.NestedScrollView;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
+android.support.v4.widget.NestedScrollView;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
+android.support.v7.widget.RecyclerView;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.Toolbar;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+cache-path;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/40/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+color;obj/Debug/res/values/colors.xml
+external-cache-path;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/40/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/40/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/bottomtablayout.xml
+item;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/values/styles.xml
+item;obj/Debug/res/values/styles.xml
+LinearLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/bottomtablayout.xml
+paths;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/40/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/values/styles.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/enterfromleft.xml
+set;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/enterfromright.xml
+set;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/exittoleft.xml
+set;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/exittoright.xml
+style;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/values/styles.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/enterfromleft.xml
+translate;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/enterfromright.xml
+translate;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/exittoleft.xml
+translate;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
