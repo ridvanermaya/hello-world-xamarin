@@ -1,23 +1,23 @@
 ﻿<Properties StartupConfiguration="{7D8BA36C-ED1E-42FB-AFB9-EBE918D23ED3}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53F7BF10-F6B8-4E21-B32B-066E8AC536EF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/GreatPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/StackLayoutExerciseTwo.xaml">
     <Files>
-      <File FileName="HelloWorld/GreatPage.xaml" Line="10" Column="38" />
-      <File FileName="HelloWorld/GreatPage.xaml.cs" Line="20" Column="12" />
-      <File FileName="HelloWorld/App.xaml.cs" Line="15" Column="1" />
+      <File FileName="HelloWorld/StackLayoutExerciseTwo.xaml" Line="7" Column="28" />
+      <File FileName="HelloWorld/StackLayoutExerciseTwo.xaml.cs" Line="12" Column="35" />
+      <File FileName="HelloWorld/StackPage.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/QuotesPage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorld" expanded="True">
             <Node name="HelloWorld" expanded="True">
-              <Node name="GreatPage.xaml" expanded="True" selected="True" />
-            </Node>
-            <Node name="HelloWorld.Android" expanded="True">
-              <Node name="References" expanded="True" />
-            </Node>
-            <Node name="HelloWorld.iOS" expanded="True">
-              <Node name="References" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="GreatPage.xaml" expanded="True" />
+              <Node name="QuotesPage.xaml" expanded="True" />
+              <Node name="StackLayoutExerciseOne.xaml" expanded="True" />
+              <Node name="StackLayoutExerciseTwo.xaml" expanded="True" selected="True" />
+              <Node name="StackPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HelloWorld.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

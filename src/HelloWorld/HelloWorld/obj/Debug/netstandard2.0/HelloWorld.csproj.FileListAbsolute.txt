@@ -11,3 +11,7 @@
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/GreatPage.xaml.g.cs
+/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/QuotesPage.xaml.g.cs
+/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/StackPage.xaml.g.cs
+/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/StackLayoutExerciseOne.xaml.g.cs
+/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/StackLayoutExerciseTwo.xaml.g.cs
