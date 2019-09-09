@@ -10,11 +10,13 @@ namespace HelloWorld
         public GreatPage()
         {
             InitializeComponent();
+
+            slider.Value = 0.5;
         }
 
-        private void Handle_Clicked(object sender, System.EventArgs e)
-        {
-            DisplayAlert("Title", "Hello World", "Ok");
-        }
+        //private void Handle_ValueChanged(object sender, Xamarin.Forms.ValueChangedEventArgs e)
+        //{
+        //    label.Text = String.Format($"Value is {e.NewValue:F2}");
+        //}
     }
 }

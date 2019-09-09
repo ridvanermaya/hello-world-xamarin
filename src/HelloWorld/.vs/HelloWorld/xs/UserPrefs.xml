@@ -1,22 +1,24 @@
 ﻿<Properties StartupConfiguration="{7D8BA36C-ED1E-42FB-AFB9-EBE918D23ED3}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53F7BF10-F6B8-4E21-B32B-066E8AC536EF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/GreatPage.xaml">
     <Files>
-      <File FileName="HelloWorld/GreatPage.xaml" Line="7" Column="15" />
-      <File FileName="HelloWorld/GreatPage.xaml.cs" Line="16" Column="10" />
-      <File FileName="HelloWorld/App.xaml.cs" Line="13" Column="39" />
+      <File FileName="HelloWorld/GreatPage.xaml" Line="10" Column="38" />
+      <File FileName="HelloWorld/GreatPage.xaml.cs" Line="20" Column="12" />
+      <File FileName="HelloWorld/App.xaml.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorld" expanded="True">
             <Node name="HelloWorld" expanded="True">
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
-              </Node>
-              <Node name="GreatPage.xaml" expanded="True" />
+              <Node name="GreatPage.xaml" expanded="True" selected="True" />
             </Node>
-            <Node name="HelloWorld.iOS" expanded="True" />
+            <Node name="HelloWorld.Android" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="HelloWorld.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
