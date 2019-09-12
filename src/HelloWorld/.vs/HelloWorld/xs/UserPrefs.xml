@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{7D8BA36C-ED1E-42FB-AFB9-EBE918D23ED3}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53F7BF10-F6B8-4E21-B32B-066E8AC536EF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/StackLayoutExerciseTwo.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/GridExerciseTwo.xaml">
     <Files>
-      <File FileName="HelloWorld/StackLayoutExerciseTwo.xaml" Line="7" Column="28" />
-      <File FileName="HelloWorld/StackLayoutExerciseTwo.xaml.cs" Line="12" Column="35" />
-      <File FileName="HelloWorld/StackPage.xaml" Line="1" Column="1" />
-      <File FileName="HelloWorld/QuotesPage.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/App.xaml.cs" Line="13" Column="43" />
+      <File FileName="HelloWorld/GridExerciseTwo.xaml" Line="1" Column="1" />
+      <File FileName="HelloWorld/GridExerciseTwo.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,11 +12,7 @@
           <Node name="HelloWorld" expanded="True">
             <Node name="HelloWorld" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="GreatPage.xaml" expanded="True" />
-              <Node name="QuotesPage.xaml" expanded="True" />
-              <Node name="StackLayoutExerciseOne.xaml" expanded="True" />
-              <Node name="StackLayoutExerciseTwo.xaml" expanded="True" selected="True" />
-              <Node name="StackPage.xaml" expanded="True" />
+              <Node name="GridExerciseTwo.xaml" selected="True" />
             </Node>
           </Node>
         </State>
