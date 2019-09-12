@@ -15,5 +15,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="QuotesPage.cs" />
+    <Compile Remove="AbsolutePageExerciseTwo.xaml.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="AbsolutePageExerciseTwo.xaml" />
   </ItemGroup>
 </Project>

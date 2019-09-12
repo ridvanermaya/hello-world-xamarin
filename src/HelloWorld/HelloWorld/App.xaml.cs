@@ -10,7 +10,7 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            MainPage = new AbsoluteLayoutExerciseOne();
+            MainPage = new AbsoluteLayoutExerciseTwo();
         }
 
         protected override void OnStart()
