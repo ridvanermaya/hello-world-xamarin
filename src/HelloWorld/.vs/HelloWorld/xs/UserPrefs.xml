@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{7D8BA36C-ED1E-42FB-AFB9-EBE918D23ED3}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53F7BF10-F6B8-4E21-B32B-066E8AC536EF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/AbsoluteLayoutExerciseTwo.xaml">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.31A5DDE0-7547-4E5B-BCFE-1AD3FF242292" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/RelativeLayoutExerciseOne.xaml">
     <Files>
-      <File FileName="HelloWorld/App.xaml.cs" Line="13" Column="53" />
-      <File FileName="HelloWorld/AbsoluteLayoutExerciseTwo.xaml" Line="26" Column="45" />
-      <File FileName="HelloWorld/AbsoluteLayoutExerciseTwo.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld/RelativeLayoutExerciseOne.xaml" Line="12" Column="15" />
+      <File FileName="HelloWorld/RelativeLayoutExerciseOne.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld/AbsoluteLayoutExerciseTwo.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorld" expanded="True">
             <Node name="HelloWorld" expanded="True">
-              <Node name="AbsoluteLayoutExerciseTwo.xaml" selected="True" />
               <Node name="App.xaml" expanded="True" />
-              <Node name="GridExerciseTwo.xaml" expanded="True" />
+              <Node name="RelativeLayoutExerciseOne.xaml" selected="True" />
             </Node>
           </Node>
         </State>

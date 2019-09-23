@@ -21,3 +21,5 @@
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/AbsolutePage.xaml.g.cs
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/AbsoluteLayoutExerciseOne.xaml.g.cs
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/AbsoluteLayoutExerciseTwo.xaml.g.cs
+/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/RelativeLayoutPage.xaml.g.cs
+/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/RelativeLayoutExerciseOne.xaml.g.cs

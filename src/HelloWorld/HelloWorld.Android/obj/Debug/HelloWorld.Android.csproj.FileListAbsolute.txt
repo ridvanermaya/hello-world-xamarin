@@ -496,3 +496,4 @@
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/_VerifyXamarinAndroidSupportVersions.stamp

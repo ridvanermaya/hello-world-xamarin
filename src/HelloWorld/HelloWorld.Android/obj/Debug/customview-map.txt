@@ -1,6 +1,5 @@
 @string/appbar_scrolling_view_behavior;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/flyoutcontent.xml
 @string/appbar_scrolling_view_behavior;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
-@string/appbar_scrolling_view_behavior;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
 adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
 adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
 alpha;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/anim/enterfromleft.xml
@@ -14,8 +13,6 @@ android.support.design.widget.CoordinatorLayout;/Users/redone/git/After devCodeC
 android.support.design.widget.CoordinatorLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
 android.support.design.widget.TabLayout;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
 android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
-android.support.v4.widget.NestedScrollView;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
-android.support.v4.widget.NestedScrollView;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml
 android.support.v7.widget.RecyclerView;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/flyoutcontent.xml
 android.support.v7.widget.Toolbar;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/rootlayout.xml
 android.support.v7.widget.Toolbar;/Users/redone/git/After devCodeCamp/Projects/hello-world-xamarin/src/HelloWorld/HelloWorld.Android/obj/Debug/lp/41/jl/res/layout/shellcontent.xml

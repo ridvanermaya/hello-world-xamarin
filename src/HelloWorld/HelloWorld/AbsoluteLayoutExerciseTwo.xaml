@@ -19,12 +19,12 @@
         </Label>
         <BoxView Opacity="0.5"
                  BackgroundColor="Black"
-                 AbsoluteLayout.LayoutBounds="1, 1, 1, 150"
+                 AbsoluteLayout.LayoutBounds="0, 1, 1, 100"
                  AbsoluteLayout.LayoutFlags="XProportional,YProportional,WidthProportional">
 
         </BoxView>
         <StackLayout Orientation="Horizontal"
-                     AbsoluteLayout.LayoutBounds="1, 1, 1, 150"
+                     AbsoluteLayout.LayoutBounds="0, 1, 1, 100"
                      AbsoluteLayout.LayoutFlags="XProportional,YProportional,WidthProportional"
                      VerticalOptions="Center"
                      Padding="30, 0">
